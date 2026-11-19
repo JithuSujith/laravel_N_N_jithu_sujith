@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Cinzel:wght@400;500;600;700&family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+.logo {
+  font-family:'Cinzel', serif;
+}
+
+h1, h2 {
+  font-family: 'Cinzel', serif;
+  color:gainsboro;
+}
+
+.box{
+  background-color: rgb(39, 39, 39) !important;
+  border:2px solid gainsboro;
+  border-radius: 10px;
+  margin: 25px;
+}
+
+
+.heading{
+
+    font-size:80px;
+}
+
+.article-title {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+body {
+  font-family: 'Inter', sans-serif !important;
+  background-color: rgb(39, 39, 39) !important;
+  color:gainsboro !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.corpo{
+     min-height: 80vh;
+}
+
+.hero{
+
+    min-height: 80vh;
+    background-image: url('./images/Heros.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer{
+
+     background-color:  rgb(39, 39, 39);;
+}
+
+.firstb{
+  border: 2px solid gainsboro;
+  color: rgb(39, 39, 39) ;
+  background-color: gainsboro;
+  border-radius: 50px;
+}
+
+.heros{
+  background-image: url('./images/Heros.jpeg');
+  min-height: 80vh;
+}
+
+.structure{
+  border: 2px solid gainsboro !important;
+  background-color:  gainsboro !important;
+  color:  rgb(39, 39, 39) ; 
+  padding: 10px;
+  margin: 20px;
+}
